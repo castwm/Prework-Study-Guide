@@ -15,7 +15,7 @@ if (topic === 'HTML') {
 var shapes = ["triangle", "square", "pentagon", "circle"];
 for(var x = 0; x < shapes.length; x++) {
  console.log(shapes[x]);
-}*/
+}x*/
 
 var topics = ['HTML', 'CSS', 'Git', 'JavaScript'];
 for(var x=0; x < topics.length; x++) {
